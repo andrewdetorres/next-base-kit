@@ -9,7 +9,7 @@ This is a customer boilerplate for building Next.js applications with integrated
 - Next.js with server-side rendering and easy routing
 - Tailwind CSS with custom theme configuration and pre-designed UI components
 - Efficient development workflow with hot-reloading and linting setup
-- Easy deployment to platforms like (Vercel)[https://vercel.com], (Netlify)[https://www.netlify.com/], or (AWS)[https://aws.amazon.com/]
+- Easy deployment to platforms like [Vercel](https://vercel.com), [Netlify](https://www.netlify.com/), or [AWS](https://aws.amazon.com/)
 
 ### Getting Started
 
